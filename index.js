@@ -1,8 +1,8 @@
 /*
-**!express-train
- * MIT Licensed
+***express-train
+!* MIT Licensed
  */
 
 module.exports = {
   app: require('./lib/app')
-}; 
+};  
