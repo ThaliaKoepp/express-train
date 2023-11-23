@@ -1,5 +1,5 @@
 {
-  "name": "express-train",
+* "name": "express-train",
   "description": "express 3 framework",
   "version": "4.0.2",
   "author": {
@@ -47,4 +47,4 @@
     "node": ">= 0.10.0"
   }
 }
- 
+  
